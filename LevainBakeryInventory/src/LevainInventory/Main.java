@@ -11,7 +11,7 @@ public class Main {
 		boolean ProgramRuns= true;
 		
 		while(ProgramRuns){
-			System.out.println("\\n--- Bakery Inventory Menu ---");
+			System.out.println("\n--- Bakery Inventory Menu ---");
 			System.out.println("1. Add an Item");
 			System.out.println("\t2. View all items" );
 			System.out.println("\t3. Update Quantity");
